@@ -256,4 +256,4 @@ IaC is the practice of managing and provisioning infrastructure using code, allo
 
 ---
 
-This document provides a comprehensive overview of **Linux**, **AWS**, **Cloud Computing**, and **DevOps**. To become proficient, practice with hands-on projects, join relevant communities, and continue exploring these resources.
+This document provides a comprehensive overview of **Linux**, **AWS**, **Cloud Computing**, and **DevOps**.
