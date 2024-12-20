@@ -3,6 +3,8 @@
 This README provides a deep dive into **Linux**, **AWS (Amazon Web Services)**, **Cloud Computing**, and **DevOps**, including everything from basic concepts and commands to advanced techniques, best practices, and resources. It covers key topics such as security, performance, cost optimization, and automation, all essential for modern IT infrastructure and development pipelines.
 
 ---
+# test Link
+https://forms.gle/KqavpF7PFHJ7BUMW9
 # projects
 + 1 “Creating a command-line based chatting platform using netcat"
 + 2 "Deploying web application using amazon ELB’’
